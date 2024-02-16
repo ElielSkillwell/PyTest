@@ -1,4 +1,8 @@
+click==7.1.2
 iniconfig==2.0.0
 packaging==23.2
 pluggy==1.4.0
 pytest==8.0.0
+six==1.16.0
+-e git+ssh://git@github.com/ElielSkillwell/PyTest.git@e3dc4d93ff8a393d1fe7afa20d649e26b5377076#egg=tasks&subdirectory=source_code/tasks_proj
+tinydb==3.15.1

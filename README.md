@@ -11,3 +11,4 @@ python -m venv venv
 source venv/bin/activate
 ```
 
+![how to install the tasks_package](image-1.png)
